@@ -10,7 +10,7 @@ nav_order: 2
     2024
   </dt>
   
-  <dd>
+  <dd><img src="assets/prof.jpeg" style="width:20%">
       <a href="" target="_blank">Evaluating Patient Factors, Operative Management, and Post-Operative Outcomes in Trauma Laparotomy Patients Worldwide - A Protocol for a Global Observational Multi-Centre Trauma Study</a>
     <br>
       M.F. Bath ,K. Kohler, L. Hobbs, <b>B.G. Smith</b>, D. Clark, A. Kwizera, Z. Perkins, M. Marsden, R. Davenport, J. Davies, J. Amoako, R. Moonesinghe, T.G. Weiser, A. Leather, T. Hardcastle, R. Naidoo, Y. Nordin Servin, A. Conway-Morris, K. Lakhoo, P. Hutchinson, T. Bashford.
