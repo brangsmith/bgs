@@ -7,10 +7,7 @@ nav_order: 2
 
 <dl>
   <dt>
-
-    Stable 
-    {: .label .label-green }
-    
+    Mar 2023
   </dt>
-  <dd>Test</dd>
+  <dd>Test<br><i>Test</i><br><u>Test</u></dd>
 </dl>
