@@ -23,7 +23,7 @@ Browse by:
     <br>
     <i>BMJ Open</i> • DOI: Pending, in press.
   </dd>
-  <br>
+
   <dt>
    2023
   </dt>
