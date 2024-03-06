@@ -9,6 +9,7 @@ nav_order: 2
   <dt>
     2024
   </dt>
+  
   <dd>
       <a href="" target="_blank">Evaluating Patient Factors, Operative Management, and Post-Operative Outcomes in Trauma Laparotomy Patients Worldwide - A Protocol for a Global Observational Multi-Centre Trauma Study</a>
     <br>
@@ -16,10 +17,11 @@ nav_order: 2
     <br>
     <i>BMJ Open.</i> DOI: Pending, in press.
   </dd>
-  
-    <dt>
+  <br>
+  <dt>
    2023
   </dt>
+ <br> 
   <dd>
       <a href="https://doi.org/10.17863/CAM.100593" target="_blank">Long-term follow-up following traumatic brain injury: contextual understanding and technology-led solutions</a>
     <br>
@@ -27,10 +29,10 @@ nav_order: 2
     <br>
     <i>Apollo: University of Cambridge Repository</i> DOI: 10.17863/CAM.100593
   </dd>
-
-    <dt>
-   
+<br>
+  <dt> 
   </dt>
+  
   <dd>
       <a href="https://doi.org/10.1016/S1474-4422(23)00328-9" target="_blank">The EyeVu Consortium for global neurosurgery</a>
     <br>
