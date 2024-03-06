@@ -3,6 +3,8 @@ title: Publications
 layout: default
 nav_order: 2
 ---
+
+Browse by:
 1. TOC
 {:toc}
 
@@ -118,9 +120,8 @@ N. Newall, <b>B.G. Smith</b>, O. Burton, A. Chari, A.G. Kolias, P.J. Hutchinson,
 <i>World Neurosurgery: X</i> • DOI: 10.1016/j.wnsx.2021.100103
 </dd>
 
+</dl>
 
 
 ## Book chapters
 
-
-</dl>
