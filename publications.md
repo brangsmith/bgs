@@ -75,7 +75,8 @@ L. Rambabu*, <b>B.G. Smith</b>*, S. Tumpa, K. Kohler, A.G. Kolias, P.J. Hutchins
 2021
 </dt>
 <dd>
-<a href="https://doi.org/10.1016/j.wneu.2021.12.040" target="_blank">Remote follow-up technologies in traumatic brain injury: a scoping review</a>
+<a href="https://doi.org/10.1016/j.wneu.2021.12.040" target="_blank">The Value and Potential of Qualitative Research Methods in Neurosurgery
+</a>
 <br>
 C.J. Whiffin, <b>B.G. Smith</b>, S.M. Selveindran, T. Bashford, I.N. Esene, H. Mee, M.T. Barki, R.E. Baticulon, K.J. Khu, P.J. Hutchinson, A.G. Kolias
 <br>
