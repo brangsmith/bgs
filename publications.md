@@ -21,7 +21,7 @@ nav_order: 2
   <dt>
    2023
   </dt>
- <br> 
+
   <dd>
       <a href="https://doi.org/10.17863/CAM.100593" target="_blank">Long-term follow-up following traumatic brain injury: contextual understanding and technology-led solutions</a>
     <br>
@@ -29,7 +29,7 @@ nav_order: 2
     <br>
     <i>Apollo: University of Cambridge Repository</i> DOI: 10.17863/CAM.100593
   </dd>
-<br>
+
   <dt> 
   </dt>
   
