@@ -3,4 +3,11 @@ title: Publications
 layout: default
 nav_order: 2
 ---
-Test
+
+
+<dl>
+  <dt>
+    Stable 
+    {: .label .label-green }
+  </dt>
+</dl>
