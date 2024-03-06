@@ -125,3 +125,41 @@ N. Newall, <b>B.G. Smith</b>, O. Burton, A. Chari, A.G. Kolias, P.J. Hutchinson,
 
 ## Book chapters
 
+<dl>
+
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1007/978-3-030-85292-4_20" target="_blank">Applying Convolutional Neural Networks to Neuroimaging Classification Tasks: A Practical Guide in Python
+</a>
+<br>
+M.A.K. Mohamed, A. Alamri, <b>B.G. Smith</b>, C. Uff
+<br>
+<i>Machine Learning in Clinical Neuroscience (Springer)
+</i> • ISBN: 9783030852917
+</dd>
+
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1007/978-981-15-0575-1_21" target="_blank">Training in Percutaneous Nephrolithotomy
+</a>
+<br>
+A. Aydin, A. Al-Jabir, <B>B.G. Smith</B>, K. Ahmed
+<br>
+<i>Percutaneous Nephrolithotomy (Springer)
+</i> • ISBN: 9789811505744
+</dd>
+
+<dt>
+</dt>
+<dd>
+<a href="https://www.minervamedica.it/en/books/medical-specialties/urology/scheda.php?cod=L10134" target="_blank">3D Printing in Robot-Assisted Radical Prostatectomy
+</a>
+<br>
+<B>B.G. Smith</B>, P. Dasgupta
+<br>
+<i>New Technologies and Techniques in Minimally Invasive Urologic Surgery: an ESUT collection (Minerva Medica) </i> • ISBN: 9788877119780
+</dd>
+
+</dl>
