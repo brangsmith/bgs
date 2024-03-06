@@ -64,6 +64,7 @@ L. Rambabu*, <b>B.G. Smith</b>*, S. Tumpa, K. Kohler, A.G. Kolias, P.J. Hutchins
 <dt>
 </dt>
 <dd>
+  <img src="https://pbs.twimg.com/profile_images/1689016933591486464/GNLNpZDQ_400x400.jpg" style="width:20%; float:right; margin:0.5em;">
 <a href="https://doi.org/10.1089/neu.2022.0138" target="_blank">Remote follow-up technologies in traumatic brain injury: a scoping review</a>
 <br>
 <b>B.G. Smith</b>, S. Tumpa, O. Mantle, C.J. Whiffin, H. Mee, D.J.F. Solla, W.S. Paiva, V. Newcombe, A.G. Kolias, P.J. Hutchinson
