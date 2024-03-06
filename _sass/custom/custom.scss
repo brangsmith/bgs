@@ -1,3 +1,7 @@
 .main-content dt::after {
   content: "" !important;
 }
+
+.main-content dd {
+  line-height: 1.2em !important
+}
