@@ -12,4 +12,4 @@ I am a Postdoctoral Research Associate in the <a href="https://eng.cam.ac.uk" ta
 I co-lead the <a href="https://eye.vu" target="_blank">EyeVu Consortium</a>, a junior-led working group exploring rapid prototyping and deep learning in the creation of a frugal, automated 'smart' opthalmoscope for papilledema detection in resource-constrained settings. 
 
 <br><br>
-The best way to contact me is via e-mail: <a href="mailto:bgs30@cam.ac.uk?subject=Hello"><b>bgs30(at)cam.ac.uk</b></a>
+The best way to contact me is via e-mail: <a href="mailto:bgs30@cam.ac.uk?subject=Hello">bgs30(at)cam.ac.uk</a> 
