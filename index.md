@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<img src="https://absi.link/prof.jpeg" style="float:right; height:11em; margin:2em; margin-top:0em; margin-bottom:2.5em">
+<img src="assets/prof.jpeg" style="float:right; height:11em; margin:2em; margin-top:0em; margin-bottom:2.5em">
 ## Dr. Brandon G. Smith, BSc PhD
 
 <p>Welcome to my home on the web!<br>
