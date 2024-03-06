@@ -120,6 +120,65 @@ N. Newall, <b>B.G. Smith</b>, O. Burton, A. Chari, A.G. Kolias, P.J. Hutchinson,
 <i>World Neurosurgery: X</i> • DOI: 10.1016/j.wnsx.2021.100103
 </dd>
 
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1136/bmjopen-2020-041442" target="_blank">Neurotrauma clinicians’ perspectives on the contextual challenges associated with long-term follow-up following traumatic brain injury in low-income and middle-income countries: a qualitative study protocol
+</a>
+<br>
+<b>B.G. Smith</b>*, C.J. Whiffin*, I.N. Esene, C. Karekezi, T. Bashford, M.M. Khan, D.J. Fontoura Solla, B. Indira Devi, P.J. Hutchinson, A.G. Kolias, A Figaji, A.M. Rubiano
+<br>
+<i>BMJ Open</i> • DOI: 10.1136/bmjopen-2020-041442
+</dd>
+
+<dt>
+2020
+</dt>
+<dd>
+<a href="https://doi.org/10.1136/bmjopen-2020-041442" target="_blank">Neurosurgery 20/20: Visual Abstracts - Concise, Clear Content 
+</a>
+<br>
+<b>B.G. Smith</b>, O. Burton, S. Tumpa, L.A. Domitrovic Zalocar, N.M. Oyesiku (collaborative authorship ‘Enhanced Abstract Panel’)
+<br>
+<i>Neurosurgery</i> • DOI: 10.1093/neuros/nyaa425_S01_S04
+</dd>
+
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1007/s00701-020-04477-5"
+ target="_blank">The IDEAL framework in neurosurgery: a bibliometric analysis
+</a>
+<br>
+H.C.U. Ota, <b>B.G. Smith</b>, A. Alamri, F.C. Robertson, H. Marcus, A.Hirst, M. Broekman, P.J. Hutchinson, P. McCulloch, A.G. Kolias
+<br>
+<i>Acta Neurochirurgica</i> • DOI: 10.1007/s00701-020-04477-5
+</dd>
+
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1136/bmjopen-2020-038939"
+ target="_blank">Neurosurgeons’ experiences of conducting and disseminating clinical research in low- and middle-income countries: A qualitative study protocol
+</a>
+<br>
+C.J. Whiffin*, <b>B.G. Smith</b>*, I.N. Esene, C. Karekezi, T. Bashford, M.M. Khan, D.J. Fontoura Solla, P.J. Hutchinson, A.G. Kolias. Neurosurgeons’ experiences of conducting and disseminating clinical research in low- and middle-income countries: A qualitative study protocol
+<br>
+<i>BMJ Open</i> • DOI: 10.1136/bmjopen-2020-038939
+</dd>
+
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1007/s00345-019-02995-1"
+ target="_blank">3D Printing Technology and its Role in Urological Training
+</a>
+<br>
+<b>B.G. Smith</b>*, P. Dasgupta
+<br>
+<i>World Journal of Urology</i> • DOI: 10.1007/s00345-019-02995-1
+</dd>
+
 </dl>
 
 
