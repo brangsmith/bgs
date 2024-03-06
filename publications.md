@@ -50,7 +50,8 @@ L. Rambabu*, <b>B.G. Smith</b>*, S. Tumpa, K. Kohler, A.G. Kolias, P.J. Hutchins
 <i>International Journal of Surgery Protocols</i> DOI: 10.1097/SP9.0000000000000016
 </dd>
 
-<dt> 
+<dt>
+2022
 </dt>
 <dd>
 <a href="https://doi.org/10.1371/journal.pone.0274922" target="_blank">Neurotrauma clinicians’ perspectives on the contextual challenges associated with traumatic brain injury follow up in low-income and middle-income countries: a reflexive thematic analysis</a>
@@ -59,5 +60,57 @@ L. Rambabu*, <b>B.G. Smith</b>*, S. Tumpa, K. Kohler, A.G. Kolias, P.J. Hutchins
 <br>
 <i>PLOS ONE</i> DOI: 10.1371/journal.pone.0274922
 </dd>
-  
+
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1089/neu.2022.0138" target="_blank">Remote follow-up technologies in traumatic brain injury: a scoping review</a>
+<br>
+<b>B.G. Smith</b>, S. Tumpa, O. Mantle, C.J. Whiffin, H. Mee, D.J.F. Solla, W.S. Paiva, V. Newcombe, A.G. Kolias, P.J. Hutchinson
+<br>
+<i>Journal of Neurotrauma</i> DOI: 10.1089/neu.2022.0138
+</dd>
+
+<dt>
+2021
+</dt>
+<dd>
+<a href="https://doi.org/10.1016/j.wneu.2021.12.040" target="_blank">Remote follow-up technologies in traumatic brain injury: a scoping review</a>
+<br>
+C.J. Whiffin, <b>B.G. Smith</b>, S.M. Selveindran, T. Bashford, I.N. Esene, H. Mee, M.T. Barki, R.E. Baticulon, K.J. Khu, P.J. Hutchinson, A.G. Kolias
+<br>
+<i>World Neurosurgery</i> DOI: 10.1016/j.wneu.2021.12.040
+</dd>
+
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1093/neuros/nyab371" target="_blank">Commentary: Pearls and Pitfalls of Visual Abstract Design</a>
+<br>
+S. Tumpa, <b>B.G. Smith</b>, O. Burton, L.A. Domitrovic Zalocar
+<br>
+<i>Neurosurgery</i> DOI: 10.1093/neuros/nyab371
+
+</dd>
+
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1136/bmjopen-2021-051806" target="_blank">Neurosurgeons’ experiences of conducting and disseminating clinical research in low- and middle-income countries: a reflexive thematic analysis</a>
+<br>
+C.J. Whiffin*, <b>B.G. Smith</b>*, S.M. Selveindran, T. Bashford, I.N. Esene, H. Mee, M.T. Barki, R.E. Baticulon, K.J. Khu, P.J. Hutchinson, A.G. Kolias<br>
+<i>BMJ Open</i> DOI: 10.1136/bmjopen-2021-051806
+</dd>
+
+<dt>
+</dt>
+<dd>
+<a href="https://doi.org/10.1016/j.wnsx.2021.100103" target="_blank">Improving neurosurgery education using social media case-based discussions: a pilot study
+</a>
+<br>
+N. Newall, <b>B.G. Smith</b>, O. Burton, A. Chari, A.G. Kolias, P.J. Hutchinson, A. Alamri, C. Uff, Brainbook
+<br>
+<i>World Neurosurgery: X</i> DOI: 10.1016/j.wnsx.2021.100103
+</dd>
+
 </dl>
