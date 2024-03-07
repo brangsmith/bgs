@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: bran.gs
 
+permalink: /:title/
+
 aux_links:
   Google Scholar: https://scholar.google.com/citations?user=E8Vq7eEAAAAJ&hl=en&authuser=1
   ORCiD: https://orcid.org/0000-0001-8471-1368
