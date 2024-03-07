@@ -14,8 +14,7 @@ I co-lead the <a href="https://eye.vu" target="_blank">EyeVu Consortium</a>, a j
 <br><br>
 The best way to contact me is via e-mail: <a href="mailto:bgs30@cam.ac.uk?subject=Hello">bgs30(at)cam.ac.uk</a> 
 <br><br>
-<img src="assets/IHS_750x182.png" style="float:left; height:11em; margin:2em; margin-top:0em; margin-bottom:2.5em">
-<img src="assets/funderbanner.png" style="float:left; height:11em; margin:2em; margin-top:0em; margin-bottom:2.5em">
+<img src="assets/IHS_750x182.png" style="float:left; height:5em; margin:2em; margin-top:0em; margin-bottom:2.5em">
 
 
 
