@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: bran.gs
 
-permalink: /:title/
+permalink: pretty
 
 aux_links:
   Google Scholar: https://scholar.google.com/citations?user=E8Vq7eEAAAAJ&hl=en&authuser=1
